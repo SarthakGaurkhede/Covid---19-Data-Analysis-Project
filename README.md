@@ -43,12 +43,12 @@ The notebook includes various visualizations that make it easy to interpret the 
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/your-username/Covid---19-Data-Analysis-Project.git
-📊 Dataset
+## 📊 Dataset
 The dataset used contains up-to-date COVID-19 statistics by country and date. You can update or replace the dataset by downloading the latest version from:
 
 Our World in Data - COVID-19
 
-✅ Outcome
+## ✅ Outcome
 By completing this project, you gain insights into:
 
 Practical data cleaning and manipulation
@@ -57,5 +57,5 @@ Performing and presenting meaningful data analysis
 
 Interpreting real-world health data trends through visualizations
 
-📬 Contact
+## 📬 Contact
 For questions or feedback, feel free to open an issue or reach out via GitHub.
